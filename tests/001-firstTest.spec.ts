@@ -1,5 +1,5 @@
 /*To run the tests please initialize Playwright:
-Initialize the Terminal and type the code bellow: npm init playwright@latest
+Initialize the Terminal and type the code bellow: npm init playwright@latest.
 */
 
 //First: import Test from Playwright library
