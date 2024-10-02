@@ -1,5 +1,6 @@
-/*To run the tests please initialize Playwright:
-Initialize the Terminal and type the code bellow: npm init playwright@latest
+/* 
+To run the tests, please initialize Playwright:
+Initialize the Terminal > Run Task > and select NPM: START NG SERVE
 */
 
 /*Page Ojectcts folder was created after this*/
