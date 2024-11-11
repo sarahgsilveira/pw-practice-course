@@ -40,7 +40,7 @@ export default defineConfig({
     // },
 
     // {
-    //   name: 'ifrefox',
+    //   name: 'firefox',
     //   use: { ...devices['Desktop Firefox'] },
     // },
 
