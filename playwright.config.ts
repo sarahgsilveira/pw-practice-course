@@ -34,10 +34,10 @@ export default defineConfig({
 
   /* Configure projects for major browsers */
   projects: [
-    // {
-    //   name: 'chromium',
-    //   use: { ...devices['Desktop Chrome'] },
-    // },
+    {
+      name: 'chromium',
+      use: { ...devices['Desktop Chrome'] },
+    },
 
     // {
     //   name: 'firefox',
@@ -50,11 +50,11 @@ export default defineConfig({
     // },
 
     /* Test against mobile viewports. */
-    {
-      name: 'mobile',
-      testMatch: 'testMobile.spec.ts',
-      use: {...devices['iPhone 11']},
-    },
+    // {
+    //   name: 'mobile',
+    //   testMatch: 'testMobile.spec.ts',
+    //   use: {...devices['iPhone 11']},
+    // },
     // {
     //   name: 'Mobile Safari',
     //   use: { ...devices['iPhone 12'] },
