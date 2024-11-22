@@ -1,3 +1,4 @@
+/*This imports Playwright's test and assertion library, enabling test case definitions and validation of expected outcomes.*/
 import { test, expect } from '@playwright/test';
 
 /**

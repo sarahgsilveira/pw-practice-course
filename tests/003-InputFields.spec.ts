@@ -3,7 +3,7 @@ To run the tests, please initialize Playwright:
 Initialize the Terminal > Run Task > and select NPM: START NG SERVE
 */
 
-import { test, expect } from '@playwright/test';
+import { test, expect } from '@playwright/test'; /*This imports Playwright's test and assertion library, enabling test case definitions and validation of expected outcomes.*/
 
 /**
  * Test Suite: Precondition Setup for All Tests
