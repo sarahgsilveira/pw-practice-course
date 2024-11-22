@@ -5,7 +5,7 @@ Initialize the Terminal > Run Task > and select NPM: START NG SERVE
 
 /*Page Ojectcts folder was created after this*/
 
-
+/*This imports Playwright's test and assertion library, enabling test case definitions and validation of expected outcomes.*/
 import {test, expect} from '@playwright/test'
 import { PageManager } from '../page-objects/1-pageManager'
 /*Once imported PageManger, we can delete the PageObjects bellow:
